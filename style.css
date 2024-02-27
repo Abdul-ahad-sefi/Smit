@@ -1,0 +1,139 @@
+.pic1{
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    gap: 4%;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.pics1{
+    flex-basis: 22%;
+    margin: 0;
+    padding: 0;
+  }
+
+  figcaption{
+    background-color: black;
+    color: white;
+    margin-top: -20px;
+  }
+
+ 
+ .pic2{   
+    margin-top: -16px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 4%;
+}
+
+.img2{
+    height: 200px;
+    width: 650px;
+}
+
+.pics2{
+    flex-basis: 22%;
+    margin: 0;
+    padding: 0;
+  }
+
+.figcaption2{
+    background-color: black;
+    color: white;
+    margin-top: -20px;
+ }
+
+ .pic3{
+    margin-top: -16px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 4%;
+}
+
+.img3{
+    height: 200px;
+    width: 985px;
+}
+
+.img5{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+.pics3{
+    margin-top: -16px;
+    flex-basis: 22%;
+    margin: 0;
+    padding: 0;
+  }
+
+.figcaption3 {     
+    background-color: black;
+    color: white;
+    margin-top: -20px;
+}
+
+.pic4{
+    margin-top: -16px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+} 
+
+.img4{
+    height: 200px;
+    width: 1340px;
+}
+
+
+.pics4{
+    flex-basis: 22%;
+    margin: 0;
+    padding: 0;
+  }
+
+.figcaption4{     
+    background-color: black;
+    color: white;
+    margin-top: -20px;
+}
+
+.pic5{
+    margin-top: -16px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 4%;
+}
+
+.img5{
+    height: 200px;
+    width: 300px;
+}
+
+.img7{
+    height: 200px;
+    width: 650px;
+}
+
+
+.pics5{
+    flex-basis: 22%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .figcaption5{
+    background-color: black;
+    color: white;
+    margin-top: -20px;
+  }
